@@ -1,0 +1,19 @@
+# Imaging data and derivatives (never upload)
+*.tsv
+*.nii
+*.nii.gz
+*.json
+sub-*/
+
+# Python
+__pycache__/
+*.pyc
+
+# Cluster logs
+*.log
+*.out
+*.err
+
+# Mac / editors
+.DS_Store
+.vscode/

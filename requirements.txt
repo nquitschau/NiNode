@@ -1,0 +1,12 @@
+certifi==2026.6.17
+cffi==2.1.0
+datalad==1.6.0
+numpy==2.4.6
+pandas==3.0.3
+pycparser==3.0
+pyparsing==3.3.2
+python-dateutil==2.9.0.post0
+python-gitlab==8.4.0
+seaborn==0.13.2
+uniharmony @ git+https://github.com/n-nieto/UniHarmony.git@2c589e6ca1f4e7f97195494bb19029c1bd55a74f
+urllib3==2.7.0
